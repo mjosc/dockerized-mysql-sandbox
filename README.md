@@ -14,7 +14,7 @@ Step3: Run the container and connect to the server
 ```
 make connect
 ```
-This command will run the custom mysql container in the background and startup a new container with the mysql client. You will be asked for the root password.  
+This command will run the custom mysql container in the background and startup a new container with the mysql client. You will be asked for the root password (see the Makefile). This is not secure and is only intended for local SQL query practice.  
   
 Step 4: Play  
 
