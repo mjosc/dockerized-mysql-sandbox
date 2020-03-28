@@ -40,8 +40,8 @@ SOURCE tmp/test.sql;
 ```
 
 ## Startup Scripts
-Scripts found in scripts/startup will be run on startup in alphabetical order (see *Initializing a fresh instance* in the mysql [documentation](https://hub.docker.com/_/mysql) hosted on Docker Hub).
+Scripts found in `scripts/startup` will be run on startup in alphabetical order (see *Initializing a fresh instance* in the mysql [documentation](https://hub.docker.com/_/mysql) hosted on Docker Hub).
 
 ## Sources
-The create.sql and data.sql are taken from [Vijini Mallawaarachchi's Medium article](https://towardsdatascience.com/sql-cheat-sheet-for-interviews-6e5981fa797b), *SQL Recap for Interviews*.
+The `create.sql` and `data.sql` files are taken from [Vijini Mallawaarachchi's Medium article](https://towardsdatascience.com/sql-cheat-sheet-for-interviews-6e5981fa797b), *SQL Recap for Interviews*.
 
