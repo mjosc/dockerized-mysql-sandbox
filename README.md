@@ -4,7 +4,8 @@ A simple mysql sandbox pre-populated with simple data. All you need is Docker.
 
 ## Quick Start
 
-Step 1: [Install docker](https://www.docker.com/get-started)
+Step 1: [Install docker](https://www.docker.com/get-started)  
+  
 Step 2: Build your custom image
 ```
 make build
